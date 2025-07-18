@@ -1,0 +1,14 @@
+h1 {
+  text-align: center;
+  color: blue;
+}
+
+h2 {
+  text-align: right;
+  color: rgb(220,145,90);
+}
+
+p{
+    text-align: left;
+    color: #a4ff17;
+}
